@@ -1,0 +1,12 @@
+header > div > a {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  font-weight: bolder;
+  margin: 5px;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
